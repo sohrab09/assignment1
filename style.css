@@ -1,7 +1,7 @@
 body{
     margin: 0;
-    /* font-family: 'Poppins', sans-serif; */
-    font-family: 'Arial Narrow Bold', sans-serif;;
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Arial Narrow Bold', sans-serif; */
 }
 
 ul {
@@ -9,7 +9,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(236, 224, 224);
+    background-color: rgb(168, 149, 250);
   }
   
   li {
